@@ -6,4 +6,4 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/skyday123/iptv/main
 
 EPG:
 
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml
+http://epg.51zmt.top:8000/e.xml
